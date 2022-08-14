@@ -13,8 +13,8 @@ global.APIKeys = {
 }
 
 //---LAINNYA---///
-global.owner = ['6287898307350']
-global.packname = 'PENTABOT'
+global.owner = ['6283830815715']
+global.packname = 'ZerooTwoo²'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
